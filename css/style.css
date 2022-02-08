@@ -213,6 +213,11 @@ footer p {padding: 5px 0;}
         background-image: linear-gradient(to right, #e8e8e8, #f6f6f6, #e8e8e8, #eee);
         color: #004a80;
     }
+    .fa-rss-square:hover {color: #ee802f!important;}
+    .fa-facebook-square:hover {color: #3b5998!important;}
+    .fa-linkedin:hover {color: #0e76a8!important;}
+    .fa-youtube-square:hover {color: red!important;}
+    .fa-tumblr-square:hover {color: #34526f!important;}
     h2 {text-align: left;}
     h6 {text-align: left;}
     .social {display: flex; flex-direction: row;}
