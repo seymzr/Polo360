@@ -209,6 +209,10 @@ footer p {padding: 5px 0;}
         justify-content: space-between;
     }
     .btn1:hover {box-shadow: 0 0 5px #aaa;}
+    .btn2:hover {
+        background-image: linear-gradient(to right, #e8e8e8, #f6f6f6, #e8e8e8, #eee);
+        color: #004a80;
+    }
     h2 {text-align: left;}
     h6 {text-align: left;}
     .social {display: flex; flex-direction: row;}
